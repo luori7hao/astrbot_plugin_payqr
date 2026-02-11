@@ -1,0 +1,8 @@
+{
+  "payment_qr": {
+    "type": "file",
+    "description": "收款码图片",
+    "default": [],
+    "file_types": ["png", "jpg", "jpeg", "bmp", "webp"]
+  }
+}

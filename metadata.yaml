@@ -1,0 +1,5 @@
+name: astrbot_plugin_payqr
+description: 当 LLM 觉得自己没钱了或提到要别人给钱时，自动发送用户上传的收款码图片
+author: user
+version: 1.0.0
+repo: ""
